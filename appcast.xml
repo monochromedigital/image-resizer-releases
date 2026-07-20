@@ -6,6 +6,23 @@
         <description>Signed updates for Image Resizer.</description>
         <language>en</language>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Mon, 20 Jul 2026 19:06:14 +0000</pubDate>
+            <sparkle:version>1002</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Image Resizer 0.1.2 for Apple Silicon Macs running macOS 14 or newer.
+
+Built automatically from private source commit `d58a75933c60f462c8fc7c904d827f49741d0fbf`.
+
+Download `ImageResizer.dmg`, open it, and drag Image Resizer into Applications.
+
+SHA-256: `6e1746c71b472f832783212507ae6c9b83a16ca721d75d0cf31ad0b3816a1b8c`
+]]></description>
+            <enclosure url="https://github.com/johnny-bm/image-resizer-releases/releases/download/v0.1.2/ImageResizer.dmg" length="4410307" type="application/octet-stream" sparkle:edSignature="Mk43gqmIBkRE8AkyCH1aExxmJSwlHDOvg/OJ5uugMZMf0+lSuo5gj2xO7wIUayS5W8JaHHG8zyTX0HxwUsHSCQ=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Mon, 20 Jul 2026 14:42:19 +0000</pubDate>
             <sparkle:version>1001</sparkle:version>
