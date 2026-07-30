@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Image Resizer Updates</title>
-        <link>https://github.com/johnny-bm/image-resizer-releases</link>
+        <link>https://github.com/monochromedigital/image-resizer-releases</link>
         <description>Signed updates for Image Resizer.</description>
         <language>en</language>
         <item>
@@ -14,13 +14,13 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="markdown"><![CDATA[Image Resizer 0.1.2 for Apple Silicon Macs running macOS 14 or newer.
 
-Built automatically from private source commit `d58a75933c60f462c8fc7c904d827f49741d0fbf`.
+Built automatically from source commit `d58a75933c60f462c8fc7c904d827f49741d0fbf`.
 
 Download `ImageResizer.dmg`, open it, and drag Image Resizer into Applications.
 
 SHA-256: `6e1746c71b472f832783212507ae6c9b83a16ca721d75d0cf31ad0b3816a1b8c`
 ]]></description>
-            <enclosure url="https://github.com/johnny-bm/image-resizer-releases/releases/download/v0.1.2/ImageResizer.dmg" length="4410307" type="application/octet-stream" sparkle:edSignature="Mk43gqmIBkRE8AkyCH1aExxmJSwlHDOvg/OJ5uugMZMf0+lSuo5gj2xO7wIUayS5W8JaHHG8zyTX0HxwUsHSCQ=="/>
+            <enclosure url="https://github.com/monochromedigital/image-resizer-releases/releases/download/v0.1.2/ImageResizer.dmg" length="4410307" type="application/octet-stream" sparkle:edSignature="Mk43gqmIBkRE8AkyCH1aExxmJSwlHDOvg/OJ5uugMZMf0+lSuo5gj2xO7wIUayS5W8JaHHG8zyTX0HxwUsHSCQ=="/>
         </item>
         <item>
             <title>0.1.1</title>
@@ -31,13 +31,13 @@ SHA-256: `6e1746c71b472f832783212507ae6c9b83a16ca721d75d0cf31ad0b3816a1b8c`
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="markdown"><![CDATA[Image Resizer 0.1.1 for Apple Silicon Macs running macOS 14 or newer.
 
-Built automatically from private source commit `3f9a6065e3bf784ec1b2062114656b23a4bf9eb8`.
+Built automatically from source commit `3f9a6065e3bf784ec1b2062114656b23a4bf9eb8`.
 
 Download `ImageResizer.dmg`, open it, and drag Image Resizer into Applications.
 
 SHA-256: `f8a7cc5a21a39f56d7fd7e7b9efc0fab748321cfa174a22fbdf2494a9875185c`
 ]]></description>
-            <enclosure url="https://github.com/johnny-bm/image-resizer-releases/releases/download/v0.1.1/ImageResizer.dmg" length="4391502" type="application/octet-stream" sparkle:edSignature="c24wAKgROrepBoDLr6/UGOIgPoemW2QFXKXG3nlkVe0ZOGSUULyLNLZZUCSG8+4WRhST0H6pT469JDDGx7LVDA=="/>
+            <enclosure url="https://github.com/monochromedigital/image-resizer-releases/releases/download/v0.1.1/ImageResizer.dmg" length="4391502" type="application/octet-stream" sparkle:edSignature="c24wAKgROrepBoDLr6/UGOIgPoemW2QFXKXG3nlkVe0ZOGSUULyLNLZZUCSG8+4WRhST0H6pT469JDDGx7LVDA=="/>
         </item>
     </channel>
 </rss>
