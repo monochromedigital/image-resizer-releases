@@ -6,6 +6,23 @@
         <description>Signed updates for Image Resizer.</description>
         <language>en</language>
         <item>
+            <title>0.1.22</title>
+            <pubDate>Wed, 05 Aug 2026 07:36:24 +0000</pubDate>
+            <sparkle:version>1022</sparkle:version>
+            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Image Resizer 0.1.22 for Apple Silicon Macs running macOS 14 or newer.
+
+Built automatically from source commit `1a91989cea8d524baf44395b23d4f39a069a9ec3`.
+
+Download `ImageResizer.dmg`, open it, and drag Image Resizer into Applications.
+
+SHA-256: `965135c9cfef648691da535fda9f5215364c30bb46f8729cc7367612d20639ad`
+]]></description>
+            <enclosure url="https://github.com/monochromedigital/image-resizer-releases/releases/download/v0.1.22/ImageResizer.dmg" length="4112382" type="application/octet-stream" sparkle:edSignature="Pzb7jChbXc3AZOZWjHV5VhqT7CCMhAOT+iOAyKNkD9BVfS4C6QdYN8FT2L8F28DRmMN/Z7b4at8XOB5FFSR6Cg=="/>
+        </item>
+        <item>
             <title>0.1.21</title>
             <pubDate>Wed, 05 Aug 2026 07:10:43 +0000</pubDate>
             <sparkle:version>1021</sparkle:version>
@@ -38,23 +55,6 @@ Download `ImageResizer.dmg`, open it, and drag Image Resizer into Applications.
 SHA-256: `c153d26d2457168a465019d56fcdefb0350289ff66181a5478ac6f1944ff3c28`
 ]]></description>
             <enclosure url="https://github.com/monochromedigital/image-resizer-releases/releases/download/v0.1.20/ImageResizer.dmg" length="4109357" type="application/octet-stream" sparkle:edSignature="qnBYsPivJGDR7JNcYeu97vyYwHDneEnR+Cy6n/T76uzj2jCdWnsB2UiplyCyp8PneUSJ0IjjfNm2NTIQ9nyOCA=="/>
-        </item>
-        <item>
-            <title>0.1.19</title>
-            <pubDate>Wed, 05 Aug 2026 00:07:18 +0000</pubDate>
-            <sparkle:version>1019</sparkle:version>
-            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Image Resizer 0.1.19 for Apple Silicon Macs running macOS 14 or newer.
-
-Built automatically from source commit `e286fee2af3be1cd344c8ba626656b2adf1ac041`.
-
-Download `ImageResizer.dmg`, open it, and drag Image Resizer into Applications.
-
-SHA-256: `e3aaaeff09613c00fef11c89404b00b37131b6ae58c7a8fd1b9decf858826df4`
-]]></description>
-            <enclosure url="https://github.com/monochromedigital/image-resizer-releases/releases/download/v0.1.19/ImageResizer.dmg" length="4087191" type="application/octet-stream" sparkle:edSignature="CPEpC6honcgodJUzszAaHdVi1/iP5fKVMlCEJFSOUUAW5RrXLB1ROlXX4Z7D1KHKLkYNzHZaIP4WjxaHxebLBg=="/>
         </item>
     </channel>
 </rss>
